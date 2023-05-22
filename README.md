@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi👋, I'm Korawit
+### Javascript Developer
+---
 
 <!--
 **supernova233/supernova233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
